@@ -1,0 +1,16 @@
+body {
+    background:
+    linear-gradient(
+      rgba(0, 0, 0, 0.3), 
+      rgba(0, 0, 0, 0.3)
+    ),
+    url(https://images.pexels.com/photos/2473711/pexels-photo-2473711.jpeg?cs=srgb&dl=pexels-michel-paz-2473711.jpg&fm=jpg&_gl=1*1lia6is*_ga*MjYzNjY4NDQ5LjE2ODA2MzY3NDg.*_ga_8JE65Q40S6*MTY4MDYzNjc0OS4xLjEuMTY4MDYzNjc4My4wLjAuMA..);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
